@@ -33,4 +33,11 @@ Alongside my academic work, I completed an internship at Etisal Distribution, ga
 
 ---
 
+## Repo Notes
+- This repository showcases the structure and documentation of my AI Malware Detection project.
+- Dataset files are not included due to privacy and size considerations.
+- Source code will be uploaded after cleanup and refactoring to keep the repository clear and professional.
+
+---
+
 Thanks for visiting my profile!
