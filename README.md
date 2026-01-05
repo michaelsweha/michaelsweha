@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Michael 👋
 
-<!--
-**michaelsweha/michaelsweha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science (Artificial Intelligence) graduate  
+🐍 Python • Machine Learning • Software Development  
+🔐 AI-based malware detection | End-to-end ML systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+I am a Computer Science (AI) graduate with a strong foundation in Python, machine learning, and software development, with a focus on building practical, end-to-end systems.
+
+I recently completed my final-year AI project, where I designed, trained, evaluated, and deployed a machine learning–based malware detection system using structured network traffic data. The project involved data preprocessing, feature engineering, model selection, and deployment as a Flask-based REST API for real-time inference.
+
+Alongside my academic work, I completed an internship at Etisal Distribution, gaining exposure to IT operations, server room environments, and ERP systems.
+
+---
+
+## Technical Skills
+- Python  
+- Machine Learning  
+- Data Processing & Feature Engineering  
+- scikit-learn  
+- Flask  
+- SQL & Databases  
+- Algorithms & Data Structures  
+
+---
+
+## Currently
+- 🎯 Seeking **Junior Software Engineer / AI / ML roles**
+- 🌍 Based in **Cairo, Egypt**
+- 📫 Reach me on **LinkedIn** (link coming soon)
+
+---
+
+Thanks for visiting my profile!
